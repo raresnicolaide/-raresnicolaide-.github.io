@@ -1,0 +1,19 @@
+.add-new-entry-input{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.add-new-entry-input-icon{
+    margin-top: 20px;
+}
+.message{
+
+    display: flex;
+    margin-top:20px;
+    font-size: 18px;
+    font-weight: bold;
+    color:rgb(196, 7, 7);
+    justify-content: center;
+    
+}
+

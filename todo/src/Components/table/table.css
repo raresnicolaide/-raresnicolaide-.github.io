@@ -1,0 +1,31 @@
+td{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+
+}
+th{
+    text-transform: uppercase;
+    cursor: pointer;
+}
+table{
+    
+    border-collapse: collapse;
+    width: 70%;
+}
+.table{
+    display: flex;
+    margin-top: 5%;
+    justify-content: center;    
+    width: 100%;
+}
+.table_data_task{
+    text-decoration: line-through;
+}
+.input{
+    border: groove;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.input_icon{
+    margin-left: 10px;
+}
